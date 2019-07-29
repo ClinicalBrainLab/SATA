@@ -1,7 +1,7 @@
 # Systematic Approach for tDCS analysis (SATA) is a Matlab Based toolbox.
 # ** SATA is a post-processing toolbox after tDCS montages have been simulated in COMETS or ROAST
 # to download the GUI version of SATA plese visit https://doi.org/10.21979/N9/DMWPZK
-
+# The SATA package will allow users to stiumulate their montages in COMETS or ROAST and obtain the post processed stimulation outputs from SATA.
 
 
 ## Installation
@@ -13,10 +13,12 @@ The complete installation guide for SATA software package is availaible in the r
 ############# Features
 # Input Features
 - [1] Takes the montages simulated from COMETS or ROAST (Please cite the respective references based on your choice)
+- [2] If you download the complete package from the link (above), you can simulate your montages in COMETS or ROAST from       the SATA GUI
 
 # Output Features
-- [1] Current density in each cortical Lobe - Amount of stimulation received in each cortical area of the brain
-- [2] Overlap - If there are multiple cortical routes that process the information (e.g., Dorsal and venntral routes in Language, Vision, etc) in the brain, SATA helps to decide the montage that is most appropriate so that user can stimulate one route thereby minimally stimulating the other or can also chose the montage that stimulates both routes.
+- [1] Average Current density in each cortical Lobe - Amount of stimulation received in each cortical area of the brain
+- [2] Gradient of current density across each cortical area.
+- [2] Overlap of stimulation - If there are multiple cortical routes that process the information (e.g., Dorsal and venntral routes in Language, Vision, etc) in the brain, SATA helps to decide the montage that is most appropriate such that a user can stimulate one route thereby minimally stimulating the other or can also chose the montage that stimulates both routes.
 
 #### Overall use of SATA
 
