@@ -2,7 +2,7 @@
 # SATA is a post-processing toolbox after the tDCS montages have been simulated in COMETS or ROAST.
 # ** To download the Graphical user interface (GUI) version of SATA, please visit https://doi.org/10.21979/N9/DMWPZK
 # The SATA GUI package will allow the users to simulate the chosen montages in either COMETS or ROAST, and obtain the       post-processed simulation outputs from SATA. 
-# Further, you may wish not to use the SATA GUI. In this case, you can download the codes from Github. However, you will     need to download SPM, Fieldtrip, and Talairach client (do add them to matlab path). Similarly, you will have to run    COMETS or ROAST separately to generate simulation outputs.So please download them from their respective websites. 
+# Further, you may wish not to use the SATA GUI. In this case, you can download the codes from Github. However, you will     need to download SPM, Fieldtrip, and Talairach client (do add them to matlab path). Similarly, you will have to run     COMETS or ROAST separately to generate simulation outputs.So please do download them from their respective websites and  see how to use them from their manuals. 
 
 
 ## Installation
