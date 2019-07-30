@@ -1,12 +1,13 @@
 # Systematic Approach for tDCS analysis (SATA) is a Matlab Based toolbox.
 # ** SATA is a post-processing toolbox after tDCS montages have been simulated in COMETS or ROAST
-# to download the GUI version of SATA plese visit https://doi.org/10.21979/N9/DMWPZK
-# The SATA package will allow users to stiumulate their montages in COMETS or ROAST and obtain the post processed stimulation outputs from SATA.
+# to download the GUI version of SATA please visit https://doi.org/10.21979/N9/DMWPZK
+# Additionally, The SATA GUI package will allow users to stimulate the chosen montages in COMETS or ROAST and obtain the post processed stimulation outputs from SATA. Please note that if you are using the the github version of SATA, you have to run COMETS or ROAST separately.So please download them from their websites.
 
 
 ## Installation
 
-The complete installation guide for SATA software package is availaible in the reference manual
+The complete installation guide for SATA GUI package is availaible in the reference manual availaible at
+https://doi.org/10.21979/N9/DMWPZK
 ---------------------------
 --------------------
 
