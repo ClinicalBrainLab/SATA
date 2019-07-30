@@ -1,4 +1,4 @@
-# Systematic Approach for tDCS analysis (SATA) is a Matlab Based toolbox.
+# Systematic Approach for tDCS analysis (SATA) is a Matlab Based toolbox. It works well with Matlab version 2017 and above. However, we have not tested SATA for other MATLAB versions. SATA works on Windows, Linux and Mac.
 # SATA is a post-processing toolbox after the tDCS montages have been simulated in COMETS or ROAST.
 # ** To download the Graphical user interface (GUI) version of SATA, please visit https://doi.org/10.21979/N9/DMWPZK
 # The SATA GUI package will allow the users to simulate the chosen montages in either COMETS or ROAST, and obtain the       post-processed simulation outputs from SATA. 
@@ -51,4 +51,5 @@ https://doi.org/10.21979/N9/DMWPZK
     *If ROAST was used to generate inputs for SATA -
 [7] Huang, Y., Datta, A., Bikson, M., & Parra, L. C. (2019). Realistic vOlumetric-Approach to Simulate Transcranial     Electric Stimulation – ROAST – a fully automated open-source pipeline. Journal of Neural Engineering, 2019  
  
-
+-- Contact----
+For any queries and suggestions, please email us at clinicalbrainlab@gmail.com. Please understand that we are a small group and may not be able to respond very quickly.
