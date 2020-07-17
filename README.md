@@ -1,4 +1,5 @@
-# Systematic Approach for tDCS analysis (SATA) is a Matlab Based toolbox. It works well with Matlab version 2017 and above. However, we have not tested SATA for other MATLAB versions. SATA works on Windows, Linux and Mac.
+# Systematic Approach for tDCS analysis (SATA) 
+ a Matlab Based toolbox that works well with Matlab version 2017 and above. However, we have not tested SATA for other MATLAB versions. SATA works on Windows, Linux and Mac.
 SATA is a post-processing toolbox after the tDCS montages have been simulated in COMETS or ROAST.
  ** To download the Graphical user interface (GUI) version of SATA, please visit https://doi.org/10.21979/N9/DMWPZK
  The SATA GUI package will allow the users to simulate the chosen montages in either COMETS or ROAST, and obtain the       post-processed simulation outputs from SATA. 
